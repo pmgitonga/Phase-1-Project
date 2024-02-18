@@ -15,10 +15,15 @@ For this project it was necessary to have the necessary data and go through all 
 Features
 
 Data Collection
+
 Data dictionary
+
 Data loading
+
 Cleaning the data
+
 Exploratory Data Analysis
+
 Conclusions and Recommendations
 
 
