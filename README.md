@@ -25,7 +25,8 @@ Conclusions and Recommendations
 Data Collection
 
 For this project is used Jupyter Notebook and installed all the necessary libraries for the project.
-The dataset used for this analysis was downloaded from different box offices. The data was acquired from; https://www.boxofficemojo.com/ 
+The dataset used for this analysis was downloaded from different box offices. The data was acquired from 
+https://www.boxofficemojo.com/ 
 https://www.imdb.com/ https://www.themoviedb.org/
 
 Data dictionary
